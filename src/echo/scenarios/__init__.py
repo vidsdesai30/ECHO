@@ -1,0 +1,1 @@
+"""Synthetic scenario generation for ECHO experiments."""
